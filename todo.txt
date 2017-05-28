@@ -2,6 +2,15 @@
 
 
 
+heroku create
+
+git push heroku master
+
+heroku ps:scale web=1
+
+heroku open
+
+
 1. 换成 gif
 2. 测试其他 ios 可以吗（看看安卓是否可以优化）
 3. 看看有没有 php 的中间件
