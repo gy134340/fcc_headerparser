@@ -1,0 +1,23 @@
+{
+  "name": "fcc_headerparser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gy134340/fcc_headerparser.git"
+  },
+  "author": "gy134340",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gy134340/fcc_headerparser/issues"
+  },
+  "homepage": "https://github.com/gy134340/fcc_headerparser#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}

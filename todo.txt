@@ -1,0 +1,11 @@
+使用 express－generator，http://albertchen.top/2015/11/03/Nodejs%E9%85%8D%E7%BD%AE%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF%E4%B8%8E%E9%A1%B5%E9%9D%A2%E5%88%B7%E6%96%B0/
+
+
+
+1. 换成 gif
+2. 测试其他 ios 可以吗（看看安卓是否可以优化）
+3. 看看有没有 php 的中间件
+4. 加 preload 属性
+5. 换成其他视频格式，试一下
+6. 去掉掺杂的页面（不用 canvas record），将片头片尾换成一个小段视频，用正常的 record 记录
+									更大的可能性是前面只能加上一段 css animation
